@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: seguranca-app
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: hprestes
+Implementation-Vendor-Id: br.com.unisa.estudo
+Build-Jdk: 1.8.0_351
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/seguranca-app
+Created-By: Maven Integration for Eclipse
+
